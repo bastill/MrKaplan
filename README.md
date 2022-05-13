@@ -23,7 +23,7 @@ You can read more about it in the [wiki](https://github.com/idov31/MrKaplan/wiki
 ## Usage
 
 - Before you start your operations on the computer, run MrKaplan with begin flag and whenever your finish run it again with end flag.
-- ***DO NOT REMOVE MrKaplan registry key until you rerun with the end flag***, otherwise MrKaplan will not be able to use the information.
+- ***DO NOT REMOVE MrKaplan registry key***, otherwise MrKaplan will not be able to use the information.
 <img src="Pictures/usage.png" />
 
 ## IOCs
